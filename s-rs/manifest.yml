@@ -1,0 +1,4 @@
+---
+applications:
+- name: simple-rs
+  buildpack: go_buildpack

@@ -1,0 +1,16 @@
+# OS
+Thumbs.db
+.DS_Store
+ 
+# Common
+*~
+*.log
+*.swp
+*.bak
+ 
+# Godeps
+Godeps/Readme
+Godeps/_workspace
+ 
+# Binary File
+simple-routeservice
